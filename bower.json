@@ -1,0 +1,36 @@
+{
+  "name": "kirkbrauer-com",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Kirk Brauer"
+  ],
+  "license": "UNLICENSED",
+  "moduleType": [],
+  "homepage": "kirkbrauer.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-ui-router": "",
+    "modernizr": "~2.6.2",
+    "bootstrap": "~2.2.2",
+    "angular-strap": "~0.7.0",
+    "angular-ui": "0.4.0",
+    "ngInfiniteScroll": "1.0.0",
+    "angular-underscore": "",
+    "underscore": "",
+    "angular-bootstrap": "~0.2.0",
+    "font-awesome": "3.0.2",
+    "emoji": "0.1.2",
+    "scrollmagic": "^2.0.5",
+    "smooth-scroll": "https://github.com/cferdinandi/smooth-scroll.git#^9.1.1",
+    "gsap": "^1.18.2"
+  }
+}
